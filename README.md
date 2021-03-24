@@ -20,3 +20,6 @@ yarn test:watch
 yarn start
 ```
 
+Arlei F. Farnetani Junior
+
+farnetani@gmail.com
