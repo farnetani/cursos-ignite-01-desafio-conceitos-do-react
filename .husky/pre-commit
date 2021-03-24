@@ -1,7 +1,8 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-# npm test
+# Roda os testes antes
+yarn test
 
 # Para rodar o lint-staged quando dermos um commit
-# npx --no-install lint-staged
+npx --no-install lint-staged

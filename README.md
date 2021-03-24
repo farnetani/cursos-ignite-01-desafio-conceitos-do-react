@@ -1,7 +1,22 @@
-# Github Explorer
+# Desafio 01 - Conceitos React
 
-Aplicativo feito no curso Ignite da Rocketseat.
+Desafio do curso Ignite da Rocketseat.
+
+## Para testar a aplicação
+
+```
+yarn test
+```
+
+## Para ativar o watch no test
+
+```
+yarn test:watch
+```
+
+## Para rodar a aplicação
 
 ```
 yarn start
 ```
+
