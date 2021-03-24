@@ -13,8 +13,8 @@
     "build": "cross-env NODE_ENV=production webpack"
   },
   "lint-staged": {
-    "*": [
-      "lint --fix"
+    "*.tsx": [
+      "eslint --fix"
     ]
   },
   "dependencies": {
