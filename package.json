@@ -14,8 +14,9 @@
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
-    "*.tsx": [
-      "yarn lint --fix"
+    "src/**/*": [
+      "yarn run lint --fix",
+      "yarn run test --findRelatedTests --bail"
     ]
   },
   "pre-commit": "lint-staged",
