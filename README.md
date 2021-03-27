@@ -28,7 +28,6 @@ yarn install
 yarn dev
 
 # Abra o link: http://localhost:8080 no seu navegador
-```
 
 <br>
 
