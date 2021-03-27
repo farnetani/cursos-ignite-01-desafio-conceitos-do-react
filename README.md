@@ -16,11 +16,7 @@
 
 <br>
 
-# ou baixe o repositório clicando em Code > Download ZIP.
-
-# Entre na pasta com
-cd <nomedapasta>
-
+```
 # Instale as dependências
 yarn install
 
@@ -30,6 +26,7 @@ yarn dev
 # Abra o link: http://localhost:8080 no seu navegador
 
 <br>
+```
 
 ## :memo: Licença
 
