@@ -1,5 +1,3 @@
-<img src=".github/ignite.png" alt="Ignite" >
-
 <h3 align="center">
   Desafio 01 - Tasks
 </h3>
